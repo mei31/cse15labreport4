@@ -6,7 +6,7 @@
 ```
 
 
- ![](s1.png)
+![](s1.png)
 
 * Delete the first "start" word and replace it with "base":
 
