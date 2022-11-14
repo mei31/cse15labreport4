@@ -1,6 +1,7 @@
 ## Part 1
 
 * In order to search for the first "start" word press:
+
 ```
 <Esc> /start
 ```
@@ -37,6 +38,7 @@ base <Esc>
 ![](s9.png) 
 
 * To save the changes:
+
 
 ```
 :w <Enter>
